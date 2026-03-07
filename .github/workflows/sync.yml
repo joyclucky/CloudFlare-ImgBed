@@ -1,8 +1,6 @@
 name: Upstream Sync
 
-permissions:
-  contents: write
-  workflows: write-all
+permissions: write-all
 
 on:
   schedule:
